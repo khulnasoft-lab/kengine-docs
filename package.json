@@ -12,7 +12,7 @@
   "devDependencies": {
     "@tsconfig/node16": "^1.0.4",
     "@types/node": "^18.17.1",
-    "aws-cdk-lib": "2.72.1",
+    "aws-cdk-lib": "2.80.0",
     "constructs": "10.1.156",
     "retypeapp": "^3.1.0",
     "sst": "^2.22.6",
