@@ -10,7 +10,7 @@
     "deploy": "sst deploy --stage prod && aws cloudfront create-invalidation --distribution-id EWT2GTT9EENWT --paths \"/*\""
   },
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.4",
+    "@tsconfig/node16": "^16.0.0",
     "@types/node": "^18.17.1",
     "aws-cdk-lib": "2.72.1",
     "constructs": "10.1.156",
